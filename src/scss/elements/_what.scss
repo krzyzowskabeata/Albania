@@ -1,0 +1,111 @@
+.whatpage {
+  position: absolute;
+  top: 25%;
+  left: 30%;
+  right: 30%;
+  bottom: 25%;
+  color: $color-black;
+  background-color: $color-white;
+  border: 3px solid $color-primary;
+  border-radius: 50px;
+  padding: 25px;
+  min-width: 450px;
+
+  a {
+    padding-right: 30px;
+  }
+
+  .btn_where {
+    color: $color-primary;
+    background-color: $color-white;
+    font-size: 1em;
+    font-weight: 700;
+    width: 100%;
+    text-align: center;
+    padding: 5px;
+    margin: 15px;
+    border-radius: 50px;
+    border: 3px solid $color-white;
+  }
+
+  .btn_where:hover {
+    color: $color-white;
+    background-color: $color-primary;
+    border: 3px solid $color-primary;
+  }
+}
+
+.whatpage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.whatdo_info {
+  font-size: 2em;
+  text-align: center;
+  font-weight: bold;
+  color: $color-primary;
+  width: 100%;
+  padding: 25px;
+}
+
+.activity {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  li {
+    color:$color-primary;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 3px solid transparent;
+    border-radius: 50px;
+    margin: 20px;
+
+    h3 {
+      margin-left: 40px;
+    }
+
+    img {
+      width: 100px;
+      height: 100px;
+    }
+
+    .btn_info {
+      color: $color-primary;
+      font-weight: 700;
+      background-color: $color-white;
+      border: 2px solid $color-white;
+      box-shadow: 0 0 0 2px $color-primary;
+      border-radius: 50px;
+      width: 80px;
+      padding: 5px;
+      margin: 0 40px;
+    }
+
+    .btn_info:hover {
+      color: $color-white;
+      background-color: $color-primary;
+      border: 2px solid $color-white;
+    }
+  }
+}
+
+.activ_one  {
+
+  li {
+    width: 100%;
+    background-color: #6e989516;
+    border: 2px solid $color-primary;
+  }
+
+  li:hover {
+    color:$color-white;
+    background-color: $color-primary;
+  }
+}

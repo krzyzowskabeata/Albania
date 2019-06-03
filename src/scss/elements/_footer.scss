@@ -1,0 +1,41 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  color: white;
+  height: 90px;
+  margin-bottom: 40px;
+
+  div {
+    width: 200px;
+
+    .copyrights {
+      text-align: right;
+    }
+  }
+
+  div.media {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+
+    div {
+      width: 43px;
+
+      img {
+        width: 40px;
+        height: 40px;
+      }
+
+      img:hover {
+        width: 42px;
+        height: 42px;
+      }
+    }
+  }
+
+  //h4:hover {
+  //    color: $color-primary;
+  //    text-shadow: 0 0 5px $color-white;
+  //}
+}

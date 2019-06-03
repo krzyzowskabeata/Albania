@@ -1,0 +1,110 @@
+{
+  "places": [
+    {
+      "id": 1,
+      "name": "Tirana",
+      "description": "Tirana is the capital and largest city of the Republic of Albania. Tirana is located in the center of Albania and is enclosed by mountains and hills.",
+      "lat": "41.3288",
+      "long": "19.8177",
+      "image": "./../../images/tirana.jpeg",
+      "mapicon": "./../../images/albania.png"
+    },
+    {
+      "id": 2,
+      "name": "Shkodër",
+      "description": "Shkodër or Shkodra is one of the most ancient cities in the Balkans. The lake is the largest lake in Southern Europe close to the Adriatic Sea.",
+      "lat": "42.0666",
+      "long": "19.5000",
+      "image": "./../../images/shkoder.jpeg",
+      "mapicon": "./../../images/albania.png"
+    },
+    {
+      "id": 3,
+      "name": "Gjirokastër",
+      "description": "Gjirokastër is a city in southern Albania, an old town of UNESCO World Heritage Site, described as rare example of a well-preserved Ottoman town.",
+      "lat": "40.0666",
+      "long": "20.1333",
+      "image": "./../../images/gjirokaster.jpeg",
+      "mapicon": "./../../images/albania.png"
+    },
+    {
+      "id": 4,
+      "name": "Sarandë",
+      "description": "Sarandë, also simply Saranda, is a coastal town in Albania. Geographically, it is situated on an open sea gulf of the Ionian Sea in the central Mediterranean.",
+      "lat": "39.8250",
+      "long": "20.1100",
+      "image": "./../../images/sarande.jpeg",
+      "mapicon": "./../../images/albania.png"
+    },
+    {
+      "id": 5,
+      "name": "Gjipe",
+      "description": "Gjipe is a bay and calcareous canyon located between Dhërmi and Vuno carved by the Ionian Sea in Vlorë County, Albania. You may climb there all day!",
+      "lat": "40.2036",
+      "long": "19.6702",
+      "image": "./../../images/gjipe.jpeg",
+      "icon": "./../../images/climbing.png",
+      "activity": "Climbing",
+      "mapicon": "./../../images/marker_climb.png"
+    },
+    {
+      "id": 6,
+      "name": "Tamarë",
+      "description": "Tamarë is a settlement in the Shkodër County, northern Albania. You may hike there!",
+      "lat": "42.4633",
+      "long": "19.5625",
+      "image": "./../../images/tamare.jpeg",
+      "icon": "./../../images/hiking.png",
+      "activity": "Hiking",
+      "mapicon": "./../../images/marker_hike.png"
+    },
+    {
+      "id": 7,
+      "name": "Himarë",
+      "description": "Himarë is a part of Vlorë County. It lies between the Ceraunian Mountains and the Ionian Sea and is part of the Albanian Riviera.",
+      "lat": "39.9950",
+      "long": "19.9000",
+      "image": "./../../images/himare.jpeg",
+      "icon": "./../../images/swimming.png",
+      "activity": "Swimming",
+      "mapicon": "./../../images/marker_swim.png"
+    }
+  ],
+  "activities": [
+    {
+      "id": 5,
+      "name": "Gjipe",
+      "description": "Gjipe is a bay and calcareous canyon located between Dhërmi and Vuno carved by the Ionian Sea in Vlorë County, Albania. You may climb there all day!",
+      "lat": "40.2036",
+      "long": "19.6702",
+      "image": "./../../images/gjipe.jpeg",
+      "icon": "./../../images/climbing.png",
+      "activity": "Climbing",
+      "mapicon": "./../../images/marker_climb.png"
+    },
+    {
+      "id": 6,
+      "name": "Tamarë",
+      "description": "Tamarë is a settlement in the Shkodër County, northern Albania. You may hike there!",
+      "lat": "42.4633",
+      "long": "19.5625",
+      "image": "./../../images/tamare.jpeg",
+      "icon": "./../../images/hiking.png",
+      "activity": "Hiking",
+      "mapicon": "./../../images/marker_hike.png"
+    },
+    {
+      "id": 7,
+      "name": "Himarë",
+      "description": "Himarë is a part of Vlorë County. It lies between the Ceraunian Mountains and the Ionian Sea and is part of the Albanian Riviera.",
+      "lat": "39.9950",
+      "long": "19.9000",
+      "image": "./../../images/himare.jpeg",
+      "icon": "./../../images/swimming.png",
+      "activity": "Swimming",
+      "mapicon": "./../../images/marker_swim.png"
+    }
+  ],
+  "myactivities": [],
+  "myplaces": []
+}

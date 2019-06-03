@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Muli', sans-serif;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  background-image: url("./../../images/molo2.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.notfound {
+
+  div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    h1 {
+      color: $color-primary;
+    }
+  }
+}
